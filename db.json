@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "admin@email.com",
+      "password": "$2a$10$X6Qyabkl6urEAc7w2N7ND.3go3CmgHpZttFiTmWF54esfPf8GZB/a",
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "email": "senacrs@email.com",
+      "password": "$2a$10$nv7qfBed3R5.ua.7t1NmY.pObD8GawRhboPRQh05jYXZ6KswVD9wW",
+      "id": 2
+    },
+    {
+      "email": "a@a",
+      "password": "$2a$10$QyHUVUsjb.C/eODrJMeAAelgjnfYpRICUfqeexpHlwgYiGv80duja",
+      "id": 3
+    },
+    {
+      "email": "lucas@a",
+      "password": "$2a$10$VCNhvLBZouvy7YoXY.nqG.o2030XrrFigtaSX7VAD/CsxLIni8C..",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Cupcake",
+      "custo": "3",
+      "valor": "8",
+      "id": 1701475263886
+    },
+    {
+      "nome": "Bolo",
+      "custo": "7",
+      "valor": "10",
+      "id": 1702506542672
+    }
+  ]
+}
